@@ -6,6 +6,6 @@ The goal was to do a code refractor on a marketing agency's website to make it m
 
 ## Credits
 
-Google - <a> to see parts missing for accessibility. 
-Google - <img> to see parts missing for accessibility.
+Google - a tag to see parts missing for accessibility. 
+Google - img tag to see parts missing for accessibility.
 
